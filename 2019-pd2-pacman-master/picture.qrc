@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>board.png</file>
+        <file>pacman.png</file>
+        <file>ghost_orange.png</file>
+        <file>ghost_red.png</file>
+        <file>ghost_blue.png</file>
+        <file>ghost_change.png</file>
+        <file>ghost_green.png</file>
+        <file>left1.png</file>
+        <file>left2.png</file>
+        <file>right1.png</file>
+        <file>right2.png</file>
+        <file>round.png</file>
+        <file>up1.png</file>
+        <file>up2.png</file>
+        <file>down1.png</file>
+        <file>down2.png</file>
+        <file>background.png</file>
+        <file>back.png</file>
+        <file>game over.jpg</file>
+        <file>win.jpg</file>
+    </qresource>
+</RCC>
